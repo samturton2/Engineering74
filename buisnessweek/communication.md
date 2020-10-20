@@ -19,19 +19,15 @@
 
 ### Cognitive Bias
 - Too much information
-        - Anchoring
-        - Confirmation Bias
-        - Choice-Supportive Bias
-- Not enough information
-        -
-        -
-        -
+  - Anchoring
+  - Confirmation Bias
+  - Choice-Supportive Bias
 - Other
-        - Band wagon bias
-        - HALO effect
-        - Likeability
-        - Occams Razor
-        - Dunning-Kruger Effect
+  - Band wagon bias
+  - HALO effect
+  - Likeability
+  - Occams Razor
+  - Dunning-Kruger Effect
 
 ### Exploiting Bias
 -Reactance - *By telling people they are able to say no will make them more likely to say yes*
@@ -40,14 +36,14 @@
 
 ### Resolving conflict
 -Not every situation requires an immediate reaction
-	-Take time to understand situation
-	-Know your audience
-	-comprimise
+  -Take time to understand situation
+  -Know your audience
+  -comprimise
 -Tips
-	-Stay calm
-	-Listen
-	-Treat them with respect
-	-take some responsibility
+  -Stay calm
+  -Listen
+  -Treat them with respect
+  -take some responsibility
 
 ## Homework
 - Extroverts
@@ -57,11 +53,11 @@
 - Analytical
 
 -Understand how each work/Think
-	-Establish how to approach them
-	- Adapt accordingly
+  -Establish how to approach them
+  - Adapt accordingly
 -Respect differences
-	-Each has their own work ethic and style
-	-Be on the same team
+  -Each has their own work ethic and style
+  -Be on the same team
 
 Do personality test: 
 https://www.16personalities.com/
