@@ -21,7 +21,7 @@
 
 - copy the key from the local host with 
 
-`cat id_rsa.pub`
+`cat a_key.ssh.pub`
 
 - Paste the public key on your github in settings GPG SSH key option in your profile menu
 - once saved go back to your terminal
