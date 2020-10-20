@@ -30,7 +30,8 @@
 ```
 git add .
 git commit -m " logical commit message "
-git push -u origin main```
+git push -u origin main
+```
 
 - go back to the github repo to verify the changes
 
