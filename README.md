@@ -27,7 +27,8 @@
 - once saved go back to your terminal
 - run the github command
 
-```git add .
+```
+git add .
 git commit -m " logical commit message "
 git push -u origin main```
 
