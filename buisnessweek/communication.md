@@ -30,9 +30,9 @@
   - Dunning-Kruger Effect
 
 ### Exploiting Bias
--Reactance - *By telling people they are able to say no will make them more likely to say yes*
--Reciprocity - *Be the first to give*
--Likeability - *Be coorperative*
+- Reactance - *By telling people they are able to say no will make them more likely to say yes*
+- Reciprocity - *Be the first to give*
+- Likeability - *Be coorperative*
 
 ### Resolving conflict
 -Not every situation requires an immediate reaction
