@@ -20,9 +20,19 @@
 
 - Copy whole key in terminal and paste into new key with title, save it
 
-## Some syntax for text editors
+## Create a github account
 
 - copy the key from the local host with 
+
 `cat id_rsa.pub`
 
+- Paste the public key on your github in settings GPG SSH key option in your profile menu
+- once saved go back to your terminal
+- run the github command
+
+```git add .
+git commit -m " logical commit message "
+git push -u origin main```
+
+- go back to the github repo to verify the changes
 
