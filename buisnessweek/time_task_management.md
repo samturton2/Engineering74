@@ -1,9 +1,14 @@
 # Time and Task management
-## Pareto principle
-## Eisenthower principle
 
-![](location of file)
+### Pareto principle
+- Input ~~always equal~~ Output
+- 20% causes could create 80% of consequences
+
+### Eisenthower principle
+- Using time efficiently, not just effectively
+-Prioritise **important** tasks over **urgent** tasks 
+
+
+![](desktop/"Sam Turton"/Engineering74/buisnessweek/Best_practices.png)
 
 - Two Minutes rule
-- How to prioritise tasks
-- best practises
