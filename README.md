@@ -8,7 +8,7 @@
 
 - Make a passphrase (optional but good practise)
 
-- Check that "a_key.ssh" is in folder
+- Check that "a_key.ssh" is in folder (ls)
 
 - Ensure you have the git agent `eval $(ssh-agent -s)`
 
@@ -16,9 +16,6 @@
 
 - Go to github, go to settings, "SSH and GPG keys", "new SSH key"
 
-- Back to terminal `cat key.ssh.pub`
-
-- Copy whole key in terminal and paste into new key with title, save it
 
 ## Create a github account
 
