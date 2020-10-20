@@ -9,6 +9,6 @@
 -Prioritise **important** tasks over **urgent** tasks 
 
 
-![](desktop/"Sam Turton"/Engineering74/buisnessweek/Best_practices.png)
+![](./Best_practices.png)
 
 - Two Minutes rule
