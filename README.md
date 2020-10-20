@@ -8,7 +8,7 @@
 
 - Make a passphrase (optional but good practise)
 
-- Check that `key.ssh` is in folder
+- Check that "a_key.ssh" is in folder
 
 - Ensure you have the git agent `eval $(ssh-agent -s)`
 
