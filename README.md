@@ -19,3 +19,10 @@
 - Back to terminal `cat key.ssh.pub`
 
 - Copy whole key in terminal and paste into new key with title, save it
+
+## Some syntax for text editors
+
+- copy the key from the local host with 
+`cat id_rsa.pub`
+
+
