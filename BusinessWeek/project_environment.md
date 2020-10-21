@@ -21,10 +21,37 @@
 ### Software development lifecycle
 #### Methodlogies
 - Waterfall
+  - System Requirements
+  - Software requirements
+  - Analysis
+  - Program design
+  - Coding
+  - Testing
+  - Operations
 
 - V-Model
+  - Requirement Specification => Acceptance testing
+  - Functional Specification => System testing
+  - Technical Specification => Integration testing
+  - Program Specification => Unit Testing
+  - Coding
 
 - Agile (Iterative)
+  - Entry
+  - Plan (Design)
+  - Do (Code)
+  - Check (Test)
+  - Exit
+
+#### Scrum Framework
+- Product backlog
+- Sprint planning
+- Sprint backlog
+- Scrum team
+- Daily scrum
+- Sprint review
+- Sprint retrospective
+- Increment
 
 ### What is DevOps?
 [SpartaGlobal informative video](https://web.microsoftstream.com/video/1d5b348a-ca1d-4262-85dd-cf1657d34183)

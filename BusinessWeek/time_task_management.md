@@ -6,8 +6,8 @@
 
 ### Eisenthower model
 - Using time efficiently, not just effectively
--Prioritise **important** tasks over **urgent** tasks 
-	|Important | Not important
+- Prioritise **important** tasks over **urgent** tasks 
+- 	|Important | Not important
 --------|-----------|------------
 Urgent | 1st priority | 3rd priority
 --------|------------|-----------------
