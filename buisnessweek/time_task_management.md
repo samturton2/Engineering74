@@ -8,9 +8,9 @@
 - Using time efficiently, not just effectively
 -Prioritise **important** tasks over **urgent** tasks 
 	|Important | Not important
-____________________________________
+--------|-----------|------------
 Urgent | 1st priority | 3rd priority
-____________________________________
+--------|------------|-----------------
 Not urgent | 2nd priority | 4th priority
 
 ### Productivity maximisation
