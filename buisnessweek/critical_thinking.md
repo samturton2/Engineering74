@@ -1,12 +1,12 @@
 # Critical Thinking
 
 ### Levels of Intellectual Skill
-- ------------**Evaluate**------------
--   ---------**Synthesize**---------
--     --------**Analyse**---------
--       -------**Apply**--------
--         ---**Understand**---
--           --**Remember**--
+-   ------------Evaluate------------
+-     ---------Synthesize---------
+-       --------Analyse---------
+-         -------Apply--------
+-           ---Understand---
+-             --remember--
 
 ### Critical thinking process
 
@@ -37,7 +37,7 @@ Identify --> Analyse --> Apply
   - Present argument in clear statement
 - **Evidence**
   - Present evidence that supports claim
-- **Impact***
+- **Impact**
   - Explain significance of evidence
 
 ### Logical fallacies to look for
