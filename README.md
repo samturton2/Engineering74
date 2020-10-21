@@ -28,15 +28,20 @@
 - run the github command
 
 ```
+#commit all files in repo
 git add .
 git commit -m " logical commit message "
+
 #to check status of files in repo
 git status
+
 #only for the first commit of the repo
 git branch -M main
 git remote add origin git@github.com:USER_NAME/repo_name.git
+
 #push changed files to github
 git push -u origin main
+
 #pull changes on github to localhost
 git pull
 ```
