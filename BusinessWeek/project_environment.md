@@ -11,7 +11,7 @@
 
 #### Triple constraint
 - 3 constraints: 
-  -Time
+  - Time
   - Quality
   - Cost
 
