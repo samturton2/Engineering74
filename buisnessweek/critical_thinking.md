@@ -1,12 +1,12 @@
 # Critical Thinking
 
 ### Levels of Intellectual Skill
-------------**Evaluate**------------
-  ---------**Synthesize**---------
-    --------**Analyse**---------
-      -------**Apply**--------
-        ---**Understand**---
-          --**Remember**--
+- ------------**Evaluate**------------
+-   ---------**Synthesize**---------
+-     --------**Analyse**---------
+-       -------**Apply**--------
+-         ---**Understand**---
+-           --**Remember**--
 
 ### Critical thinking process
 
@@ -30,7 +30,7 @@ Identify --> Analyse --> Apply
 - Naive Relativism
 
 ### Enquiry cycle
-![](/The_enquiry_cycle.png)
+![](The_enquiry_cycle.png)
 
 ### Basic argument structure
 - **Claim**
