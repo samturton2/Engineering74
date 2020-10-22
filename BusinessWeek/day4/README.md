@@ -1,4 +1,4 @@
-#GDPR
+# GDPR
 General Data Protection Regulation
 
 ### Penalties
@@ -54,6 +54,4 @@ General Data Protection Regulation
 
 ### countermeasures
 ![](/img/Countermeasures.png)
-
-# Interviewing Skills
 
