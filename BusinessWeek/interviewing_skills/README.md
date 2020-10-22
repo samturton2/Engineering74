@@ -1,7 +1,7 @@
 # Interview Preparation
 
 ## Using STAR
-###Benifits
+### Benifits
 
 - S - situation
 - T - task
