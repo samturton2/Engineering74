@@ -36,22 +36,33 @@ General Data Protection Regulation
 - When you add someone to a database remember that individual has the 'Right to access' at any time
 - Do not add any comments you wouldn't feel comfortable saying in person
 
+## Cyber Security
+
+Lot's of groups want to gain access to data:
+- online criminals
+- foreign governments
+- hackers
+- political activists
+- terrorist organisations
+- malicious insiders
+
 ### Types of attacks
 - vishing
 - smishing
 - phishing
 - impersonation
 - waterholing
+- malware
+- ransomware
 
 ### Social engineering
 - 6 key principles to be aware of
   - Reciprocity
   - Social Proof
-  - Liking
+  - Linking
   - Commitment
   - Authority
   - Scarcity
 
 ### countermeasures
 ![](/img/Countermeasures.png)
-
