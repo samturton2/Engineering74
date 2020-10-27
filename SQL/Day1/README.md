@@ -20,7 +20,7 @@ Relational databases is where the tables in the database are related to eachothe
 
 ## Relational database
 ### Relationship Type
-![](/img/Relationship_Type.png)
+![](~/img/Relationship_Type.png)
 
 ### Primary key
 - Uniquely identifies each record in the table
@@ -119,3 +119,7 @@ These are different to the datatypes in python
   - e.g specify not null and set default to 0 ```
 film_name VARCHAR(10) NOT NULL DEFAULT 0
 ```
+## Entity Relationship Diagram
+![](/img/Ebooks.pdf)
+
+
