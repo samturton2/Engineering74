@@ -71,14 +71,15 @@ SELECT COUNT(DISTINCT animals) FROM eating_things
 ```
 
 - Using the LIKE keyword
-  - e.g ```
+  - e.g 
+```
 SELECT ProductName
 FROM Products WHERE ProductName LIKE '_h%';
 
-# would return
-#  - Chocolate
-#  - sharp
-#  - whilst
+#would return
+# - Chocolate
+# - sharp
+# - whilst
 ```
 - Wild card Characters in SQL
   - %
