@@ -103,3 +103,11 @@ FROM Products WHERE ProductName LIKE '_h%';
   - SELECT Friends_id AS 'Friends number in line';
     - changes name of column
 
+- maths functions work
+- ORDER BY
+- DESC
+- ASC
+```
+ORDER BY UnitPrice * OrderTotal Desc;
+```
+
