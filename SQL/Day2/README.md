@@ -110,4 +110,12 @@ FROM Products WHERE ProductName LIKE '_h%';
 ```
 ORDER BY UnitPrice * OrderTotal Desc;
 ```
-
+- JOIN function to join to tables when queerying 
+```
+SELECT <Table1.Column1>, <Table2.Column2>
+FROM <Table1>
+INNER JOIN <Table2> ON <Table1.customerID = Table2.customerID>
+ORDER BY <Table1.Column1> ASC;
+```
+  - condition is saying cutomer IDs are the same key
+![](/JOIN.png)
